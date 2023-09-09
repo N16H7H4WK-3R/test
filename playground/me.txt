@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aryan
+Skills: HTML, CSS, JS, Python, Django, React.js, Flask
+Email: aryan014kumar@gmail.com
+{{/user}}
